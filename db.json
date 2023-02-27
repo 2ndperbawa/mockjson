@@ -24,9 +24,15 @@
   "products": [
     {
       "id": 1,
-      "product_name": "snack",
+      "product_name": "Snack",
       "price": "Rp.5000,00",
       "stock": "48"
+    },
+    {
+      "id": 2,
+      "product_name": "MilkShake",
+      "price": "Rp.15000,00",
+      "stock": "28"
     }
   ],
   "comments": [
