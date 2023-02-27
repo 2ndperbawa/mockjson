@@ -33,6 +33,12 @@
       "product_name": "MilkShake",
       "price": "Rp.15000,00",
       "stock": "28"
+    },
+    {
+      "id": 3,
+      "product_name": "cookies",
+      "price": "Rp.2000,00",
+      "stock": "58"
     }
   ],
   "comments": [
