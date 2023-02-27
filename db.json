@@ -27,26 +27,7 @@
       "product_name": "snack",
       "price": "Rp.5000,00",
       "stock": "48"
-    },
-    {
-      "id": 2,
-      "product_name": "cookies",
-      "price": "Rp.2000,00",
-      "stock": "38"
-    },
-     {
-      "id": 3,
-      "product_name": "milkshake",
-      "price": "Rp.15000,00",
-      "stock": "20"
-    },   
-    {
-      "id": 4,
-      "product_name": "chocolate shake",
-      "price": "Rp.15000,00",
-      "stock": "25"
-    },  
-
+    }
   ],
   "comments": [
     {
